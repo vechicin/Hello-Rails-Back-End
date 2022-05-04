@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Hello-Rails-Back-End
 
-> Hello World with Rails and React as separate apps.
+> Hello World with Rails and React as separate applications.
 
 ## Built With
 
