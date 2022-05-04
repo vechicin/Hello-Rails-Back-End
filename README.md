@@ -28,6 +28,10 @@ git clone git@github.com:vechicin/Hello-Rails-Back-End.git
 5. Run `rails s` to start the project's live server and take a look at the terminal to see the URL address it is running on.
 6. If you want to run some unit tests, all you need to do is run the `rspec` command on your terminal after [installing](https://github.com/rspec/rspec-rails) `rspec-rails`
 
+## Front End
+
+To see a front end project that uses this API please click [here](https://github.com/vechicin/Hello-React-Front-End).
+
 ## Author
 
 👤 **Santiago Velosa**
